@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/freeFer-ghPages/static/css/main.f30e2872.css",
-    "main.js": "/freeFer-ghPages/static/js/main.fb523c15.js",
+    "main.css": "/freeFer-ghPages/static/css/main.0789059d.css",
+    "main.js": "/freeFer-ghPages/static/js/main.0a049698.js",
     "static/js/787.67d5f71d.chunk.js": "/freeFer-ghPages/static/js/787.67d5f71d.chunk.js",
     "static/media/bannerVideo.mp4": "/freeFer-ghPages/static/media/bannerVideo.2c83f048491cd1fc719f.mp4",
     "static/media/ladyWithPicture.jpg": "/freeFer-ghPages/static/media/ladyWithPicture.3d9ccd7ed6180242ba77.jpg",
@@ -10,6 +10,7 @@
     "static/media/petriDish.jpg": "/freeFer-ghPages/static/media/petriDish.feaa96352d592701865c.jpg",
     "static/media/menuIconInverted.png": "/freeFer-ghPages/static/media/menuIconInverted.60c46fb2ab3d75375abb.png",
     "static/media/heightIconBlue.png": "/freeFer-ghPages/static/media/heightIconBlue.91fdd74ec289ef60f1af.png",
+    "static/media/bannerImageBeforeVideo.jpg": "/freeFer-ghPages/static/media/bannerImageBeforeVideo.4721901f06a022016bee.jpg",
     "static/media/discordNotification.mp3": "/freeFer-ghPages/static/media/discordNotification.b70a22df3d3f7448f53a.mp3",
     "static/media/logo.png": "/freeFer-ghPages/static/media/logo.1dbe3b4e4ebf9013a0ef.png",
     "static/media/butterflyPurple.jpg": "/freeFer-ghPages/static/media/butterflyPurple.7815378ab529a87f39ba.jpg",
@@ -34,12 +35,12 @@
     "static/media/chatIconBlue.png": "/freeFer-ghPages/static/media/chatIconBlue.dfb479dcf12078525284.png",
     "static/media/sortIconBlue.png": "/freeFer-ghPages/static/media/sortIconBlue.04b6bf3b4187dd892b16.png",
     "index.html": "/freeFer-ghPages/index.html",
-    "main.f30e2872.css.map": "/freeFer-ghPages/static/css/main.f30e2872.css.map",
-    "main.fb523c15.js.map": "/freeFer-ghPages/static/js/main.fb523c15.js.map",
+    "main.0789059d.css.map": "/freeFer-ghPages/static/css/main.0789059d.css.map",
+    "main.0a049698.js.map": "/freeFer-ghPages/static/js/main.0a049698.js.map",
     "787.67d5f71d.chunk.js.map": "/freeFer-ghPages/static/js/787.67d5f71d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f30e2872.css",
-    "static/js/main.fb523c15.js"
+    "static/css/main.0789059d.css",
+    "static/js/main.0a049698.js"
   ]
 }
